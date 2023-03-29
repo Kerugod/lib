@@ -1,7 +1,7 @@
 import 'dart:math';
-import 'package:floriferous/Cards/FlowerCards.dart';
+import 'Cards/FlowerCards.dart';
+import 'Cards/GardenCards.dart';
 import 'Cards/ScultureCards.dart';
-import 'package:floriferous/Cards/GardenCards.dart';
 import 'package:flutter/material.dart';
 
 import 'Cards/Vase.dart';

@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:floriferous/Cards/GardenCards.dart';
+import 'GardenCards.dart';
 
 class FLowerCards extends GardenCards {
   String color = "";
